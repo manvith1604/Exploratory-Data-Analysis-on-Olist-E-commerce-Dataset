@@ -16,7 +16,7 @@ GROUP BY i.product_id , p.name , p.category
 ORDER BY Order_count DESC
 LIMIT 10;
 ```
-![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/0b0e97cd-ee3a-4130-aee9-056d5a6a1456)
+![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/0b0e97cd-ee3a-4130-aee9-056d5a6a1456 = 250x250)
 
 ## 2.	Top 10 costliest products 
 Provides information about the costliest products which are sold by the sellers. It helps to track price of products in a category.
