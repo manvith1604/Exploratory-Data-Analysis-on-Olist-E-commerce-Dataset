@@ -1,4 +1,4 @@
-1.	Top 10 highest sold products 
+# 1. Top 10 highest sold products 
   
 SELECT 
     i.product_id,
