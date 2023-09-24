@@ -48,3 +48,7 @@ PRODUCTS (Product_id, Category, Weight)<br/>
 SELLERS (Seller_id, Zip code, City, State)<br/>
 GEOLOCATION (ZipCode, City, State, Latitude, Longitude)<br/>
 
+# Data Visualization
+
+1.	New orders placed every month!
+   [image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/5b17645f-46f7-4a60-853e-e40ccfec1cd9)
