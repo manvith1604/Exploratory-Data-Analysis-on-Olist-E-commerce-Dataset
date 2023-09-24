@@ -36,5 +36,4 @@ ITEMS (Item_id, Order_id, Product_id, Seller_id, Price, Shipping limit date, Fre
 PRODUCTS (Product_id, Category, Weight)
 SELLERS (Seller_id, Zip code, City, State)
 GEOLOCATION (ZipCode, City, State, Latitude, Longitude)
-![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/f2ebf4b4-8021-4a61-b7d1-787bd9a8ddb5)
 
