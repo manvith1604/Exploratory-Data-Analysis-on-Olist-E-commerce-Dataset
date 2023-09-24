@@ -17,8 +17,8 @@ The goal of this project is to design the database system to ensure that the nea
 The items are sold by sellers, which are mapped through their “Seller_id.” The item table also has price, shipping limit date and freight value.
 - Products are identified by unique “Product_id.” It has name, category, and weight.
 - Sellers are asssociated by “Seller_id.” They also have zip code, city and state.
-- Geolocation table has latitude and longitude details which are mapped to each zip code. It also has city and state details. The customers and sellers are matched through this table with zip code, such that the nearest seller ships the product to the customer.
-Referential data: Customers, Items, Products, Seller, Geolocation and Reviews Transactional data: Orders and Payments
+- Geolocation table has latitude and longitude details which are mapped to each zip code. It also has city and state details. The customers and sellers are matched through this table with zip code, such that the nearest seller ships the product to the customer. <br/>
+Referential data: Customers, Items, Products, Seller, Geolocation and Reviews Transactional data: Orders and Payments<br/>
 Here is the EER diagram for the e-commerce business.
 
 ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/5e8e3af5-fa2a-49f0-9933-f224bbb407a3)
@@ -26,14 +26,14 @@ Here is the EER diagram for the e-commerce business.
 # UML Diagram
 ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/b8eadcde-1d14-4a45-b784-74e8e4c2e0e7)
 
-Tables in the database
+# Tables in the database
 
-REVIEWS (Review_id, Order_id, Score, Date)
-CUSTOMERS (Customer_id, Name, Zip code, City, State)
-ORDERS (Order_id, Customer_id, Status, Order placed date, Delivery date)
-PAYMENTS (Order_id, Type, Invoice number, Amount)
-ITEMS (Item_id, Order_id, Product_id, Seller_id, Price, Shipping limit date, Freight value)
-PRODUCTS (Product_id, Category, Weight)
-SELLERS (Seller_id, Zip code, City, State)
-GEOLOCATION (ZipCode, City, State, Latitude, Longitude)
+REVIEWS (Review_id, Order_id, Score, Date) <br/>
+CUSTOMERS (Customer_id, Name, Zip code, City, State)<br/>
+ORDERS (Order_id, Customer_id, Status, Order placed date, Delivery date)<br/>
+PAYMENTS (Order_id, Type, Invoice number, Amount)<br/>
+ITEMS (Item_id, Order_id, Product_id, Seller_id, Price, Shipping limit date, Freight value)<br/>
+PRODUCTS (Product_id, Category, Weight)<br/>
+SELLERS (Seller_id, Zip code, City, State)<br/>
+GEOLOCATION (ZipCode, City, State, Latitude, Longitude)<br/>
 
