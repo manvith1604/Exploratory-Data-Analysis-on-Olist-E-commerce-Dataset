@@ -4,6 +4,15 @@
 
 Creating a database for an e-commerce store company named “Olist” to store the details of customers, products, sellers, orders placed by the customers, and it includes customer reviews and payments made. The sellers and customers' zip codes are mapped to Geolocation through longitudes and latitude along with zip code.
 
+Data source : [Kaggle - Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/jayeshsalunke101/brazilian-ecommerce-public-dataset?select=olist_products_dataset.csv)
+
+Data Cleaning and Analysis 
+SQL : [Analysis Queries](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/blob/main/SQL%20Queries/Query.md)
+NoSQl : [MongoDb Queries](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/blob/main/Mongo_Query.json)
+
+Connecting to SQL Db and Data Visualization :
+Python and Matplotlib : [Python Code](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/blob/main/Project.ipynb)
+
 ## Business Problem
 E-commerce company “Olist” approached for designing the database system for their company. Olist effectively and with a single contract connects small businesses from all over the country to channels. The business owners can use Olist logistics partners to sell their goods through the Olist store and send them straight to the customer. A customer can shop for the products from the website.Once the product has been delivered or anticipated to the customers receive an email with a satisfaction survey where he/she can provide feedback on the shopping experience. After the product is selected customers can pay through the payment gateway by either credit card, UPI or gift voucher.  The customers and sellers are matched through zip code, such that the nearest seller ships the product to the customer and it would reduce the shipping cost. 
 
