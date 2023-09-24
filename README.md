@@ -50,16 +50,16 @@ GEOLOCATION (ZipCode, City, State, Latitude, Longitude)<br/>
 
 # Data Visualization
 
-1.	New orders placed every month
+1.	New orders placed every month<br/>
       ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/835cdda8-365e-4799-8b2b-4671e4d46d34)
 
-2.	Monthly revenue
+2.	Monthly revenue<br/>
       ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/a0d22c7c-2715-4c28-84c1-aff7aef4ea07)
 
-3.	Products count per category
+3.	Products count per category<br/>
       ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/9990bc18-e120-4cb0-b367-a6537eff8a9e)
 
-4.	Total payments by type
+4.	Total payments by type<br/>
       ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/e39c92c8-b964-4ebe-837e-7bb1078c387a)
 
 # Summary
