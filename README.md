@@ -6,11 +6,11 @@ Creating a database for an e-commerce store company named “Olist” to store t
 
 Data source : [Kaggle - Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/jayeshsalunke101/brazilian-ecommerce-public-dataset?select=olist_products_dataset.csv)
 
-Data Cleaning and Analysis 
+Data Cleaning and Analysis <br/>
 SQL : [Analysis Queries](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/blob/main/SQL%20Queries/Query.md)<br/>
 NoSQl : [MongoDb Queries](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/blob/main/Mongo_Query.json)
 
-Connecting to SQL Db and Data Visualization :
+Connecting to SQL Db and Data Visualization :<br/>
 Python and Matplotlib : [Python Code](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/blob/main/Project.ipynb)
 
 ## Business Problem
