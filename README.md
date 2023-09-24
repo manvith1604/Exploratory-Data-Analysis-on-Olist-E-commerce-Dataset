@@ -50,5 +50,21 @@ GEOLOCATION (ZipCode, City, State, Latitude, Longitude)<br/>
 
 # Data Visualization
 
-1.	New orders placed every month!
-   [image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/5b17645f-46f7-4a60-853e-e40ccfec1cd9)
+1.	New orders placed every month
+      ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/835cdda8-365e-4799-8b2b-4671e4d46d34)
+
+2.	Monthly revenue
+      ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/a0d22c7c-2715-4c28-84c1-aff7aef4ea07)
+
+3.	Products count per category
+      ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/9990bc18-e120-4cb0-b367-a6537eff8a9e)
+
+4.	Total payments by type
+      ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/e39c92c8-b964-4ebe-837e-7bb1078c387a)
+
+# Summary
+
+The database design as it stands now has met the business requirements, but it may not be completely perfect. <br/>
+•	To ensure that the nearest seller ships the product to customers, additional tables and fields can be added to the database to store information about the location of the sellers and divide it based on shipping zones. 
+•	To maintain inventory stock, the database can be designed to store information about the quantity of each product available with each seller. This information can be used to track inventory levels and generate alerts when stock levels fall below a certain threshold using SQL triggers.
+•	Further to improve the customer experience, we can use machine learning to recommend products either based on their shopping history or other customer shopping trends.
