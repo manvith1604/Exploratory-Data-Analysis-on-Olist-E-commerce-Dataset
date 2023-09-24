@@ -1,11 +1,90 @@
-//1.	Top 10 heaviest products//
+// 1.	Top 10 heaviest products
 
 db.products.aggregate([{
-      $project: {
-         _id: 0, product_id: 1,category: 1,Name: 1,
-         product_weight_kg: { $divide: [ "$product_weight_g", 1000 ] }
-      }},
-   {
-      $sort: { product_weight_kg: -1 }
-   }])
+   $project: {
+      _id: 0, product_id: 1,category: 1,Name: 1,
+      product_weight_kg: { $divide: [ "$product_weight_g", 1000 ] }
+   }},
+{
+   $sort: { product_weight_kg: -1 }
+}])
+
+// 2.	Distribution of sellers across zip codes
+
+db.sellers.aggregate([{
+   $group: {
+     _id: { $toInt: "$zip_code" },
+     sellers_count: { $sum: 1 }
+   }
+ },{
+   $project: {
+     _id: 1,
+     sellers_count: { $toInt: "$sellers_count" }
+   }
+ },{
+   $sort: { sellers_count: -1 }
+ }])
+
+//  3.	Distribution of number of zip codes by state 
+
+db.geo_location.aggregate([{
+   $group: {
+      _id: "$state", zipcodes_count: { $sum: 1 }
+   }
+},
+{
+   $project: {
+      _id: 1, zipcodes_count: { $toInt: "$zipcodes_count" }
+   }
+},
+{
+   $sort: { zipcodes_count: -1 }
+}])
+
+// 4.	List of cancelled orders by customer_id 
+
+db.orders.aggregate([{
+   $match: {
+      status: "cancelled"
+   }
+},
+{
+   $group: {
+      _id: "$customer_id",
+      order_count: { $sum: 1 },
+      orders: { $push: { order_id: "$order_id", customer_id: "$customer_id",
+      status: "$status", placed_date: "$placed_date"
+      }}
+   }
+},
+{
+   $project: {
+      _id: 1,
+      order_count: { $toInt: "$order_count" }, orders: 1
+   }
+},
+{
+   $unwind: "$orders"
+},
+{
+   $project: {
+      _id: "$orders.order_id", customer_id: "$orders.customer_id",
+      status: "$orders.status", placed_date: "$orders.placed_date"
+   }
+}])
+
+// 5.	Highest paid orders
+
+db.payments.find(
+  { 
+   amount: 
+   { $gt: 4000 } 
+},
+  { 
+   order_id: 1, 
+   type: 1, 
+   invoice_number: 1, 
+   amount: 1, 
+   _id: 0 
+}).sort({ amount: -1 })
 
