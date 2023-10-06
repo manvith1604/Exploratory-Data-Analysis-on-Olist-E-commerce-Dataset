@@ -63,6 +63,8 @@ GEOLOCATION (ZipCode, City, State, Latitude, Longitude)<br/>
 4.	Total payments by type<br/>
       ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/e39c92c8-b964-4ebe-837e-7bb1078c387a)
 
+# Tableau Dashboard
+
 ![Dashboard 2](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/11feed36-22db-46b5-bbae-f0d3e586ce59)
 
 # Summary
