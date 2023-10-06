@@ -11,7 +11,7 @@ SQL : [Analysis Queries](https://github.com/manvith1604/Exploratory-Data-Analysi
 NoSQL : [MongoDb Queries](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/blob/main/Mongo_Query.json)
 
 Connecting to SQL Db and Data Visualization :<br/>
-Python and matplotlib : [Python Code](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/blob/main/Project.ipynb)
+Python and matplotlib : [Python Code](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/blob/main/Project.ipynb)<br/>
 [Tableau](https://public.tableau.com/app/profile/manvith.b.y/viz/Book1_16965683364320/Dashboard2?publish=yes)
 
 ## Business Problem
