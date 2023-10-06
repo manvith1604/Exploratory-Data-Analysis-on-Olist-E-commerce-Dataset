@@ -12,6 +12,7 @@ NoSQL : [MongoDb Queries](https://github.com/manvith1604/Exploratory-Data-Analys
 
 Connecting to SQL Db and Data Visualization :<br/>
 Python and matplotlib : [Python Code](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/blob/main/Project.ipynb)
+[Tableau](https://public.tableau.com/app/profile/manvith.b.y/viz/Book1_16965683364320/Dashboard2?publish=yes)
 
 ## Business Problem
 E-commerce company “Olist” approached for designing the database system for their company. Olist effectively and with a single contract connects small businesses from all over the country to channels. The business owners can use Olist logistics partners to sell their goods through the Olist store and send them straight to the customer. A customer can shop for the products from the website.Once the product has been delivered or anticipated to the customers receive an email with a satisfaction survey where he/she can provide feedback on the shopping experience. After the product is selected customers can pay through the payment gateway by either credit card, UPI or gift voucher.  The customers and sellers are matched through zip code, such that the nearest seller ships the product to the customer and it would reduce the shipping cost. 
@@ -61,6 +62,8 @@ GEOLOCATION (ZipCode, City, State, Latitude, Longitude)<br/>
 
 4.	Total payments by type<br/>
       ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/e39c92c8-b964-4ebe-837e-7bb1078c387a)
+
+![Dashboard 2](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/11feed36-22db-46b5-bbae-f0d3e586ce59)
 
 # Summary
 
