@@ -36,7 +36,8 @@ Here is the EER diagram for the e-commerce business.
 ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/930c66e2-645f-429c-a243-1fe9211a1f82)
 
 # UML Diagram
-![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/b8eadcde-1d14-4a45-b784-74e8e4c2e0e7)
+
+![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/d514861d-d56d-4259-8d38-adaed5b01356)
 
 # Tables in the database
 
