@@ -53,16 +53,17 @@ GEOLOCATION (ZipCode, City, State, Latitude, Longitude)<br/>
 # Data Visualization
 
 1.	New orders placed every month<br/>
-      ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/835cdda8-365e-4799-8b2b-4671e4d46d34)
+      ![image]![Screenshot 2023-10-11 at 3 15 30 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/be436262-378e-49b2-825f-92d1215c9f70)
 
 2.	Monthly revenue<br/>
-      ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/a0d22c7c-2715-4c28-84c1-aff7aef4ea07)
+      ![image]![Screenshot 2023-10-11 at 3 15 30 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/8b361d70-07c0-4fc1-8a72-179a21dd98a3)
 
 3.	Products count per category<br/>
-      ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/9990bc18-e120-4cb0-b367-a6537eff8a9e)
+      ![image]![Screenshot 2023-10-11 at 3 15 30 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/fc5d0454-b899-42c0-bf7d-4483022f6ccd)
 
 4.	Total payments by type<br/>
-      ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/e39c92c8-b964-4ebe-837e-7bb1078c387a)
+      ![image]![Screenshot 2023-10-11 at 3 15 30 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/0ebcda75-056a-4dec-905c-f0b9b104465d)
+
 
 # Tableau Dashboard
 
