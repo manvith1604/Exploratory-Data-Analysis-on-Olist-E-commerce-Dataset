@@ -33,7 +33,7 @@ The items are sold by sellers, which are mapped through their “Seller_id.” T
 Referential data: Customers, Items, Products, Seller, Geolocation and Reviews Transactional data: Orders and Payments<br/>
 Here is the EER diagram for the e-commerce business.
 
-![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/5e8e3af5-fa2a-49f0-9933-f224bbb407a3)
+![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/930c66e2-645f-429c-a243-1fe9211a1f82)
 
 # UML Diagram
 ![image](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/b8eadcde-1d14-4a45-b784-74e8e4c2e0e7)
