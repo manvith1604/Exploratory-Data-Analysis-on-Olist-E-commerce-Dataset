@@ -66,7 +66,7 @@ GEOLOCATION (ZipCode, City, State, Latitude, Longitude)<br/>
 
 # Tableau Dashboard
 
-![Dashboard 2](https://public.tableau.com/app/profile/manvith.b.y/viz/Book1_16965683364320/Dashboard2)
+      (https://public.tableau.com/views/Book1_16965683364320/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 # Summary
 
