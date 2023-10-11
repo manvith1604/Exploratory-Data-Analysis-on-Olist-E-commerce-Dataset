@@ -53,21 +53,20 @@ GEOLOCATION (ZipCode, City, State, Latitude, Longitude)<br/>
 # Data Visualization
 
 1.	New orders placed every month<br/>
-      ![image]![Screenshot 2023-10-11 at 3 15 30 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/be436262-378e-49b2-825f-92d1215c9f70)
+      ![Screenshot 2023-10-11 at 3 19 12 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/7ae3e60d-5d60-47c2-a33e-599ee57736ee)
 
 2.	Monthly revenue<br/>
-      ![image]![Screenshot 2023-10-11 at 3 15 30 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/8b361d70-07c0-4fc1-8a72-179a21dd98a3)
+      ![Screenshot 2023-10-11 at 3 19 39 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/7c178fb7-cae3-4caa-b137-9a8853726181)
 
 3.	Products count per category<br/>
-      ![image]![Screenshot 2023-10-11 at 3 15 30 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/fc5d0454-b899-42c0-bf7d-4483022f6ccd)
+     ![Screenshot 2023-10-11 at 3 20 04 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/e14698b6-963f-4685-9505-5dbe1adacfaa)
 
 4.	Total payments by type<br/>
-      ![image]![Screenshot 2023-10-11 at 3 15 30 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/0ebcda75-056a-4dec-905c-f0b9b104465d)
-
+      ![Screenshot 2023-10-11 at 3 20 21 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/ab377514-4863-4081-8e39-e79bf98a4d5f)
 
 # Tableau Dashboard
 
-![Dashboard 2](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/11feed36-22db-46b5-bbae-f0d3e586ce59)
+![Dashboard 2](https://public.tableau.com/app/profile/manvith.b.y/viz/Book1_16965683364320/Dashboard2)
 
 # Summary
 
