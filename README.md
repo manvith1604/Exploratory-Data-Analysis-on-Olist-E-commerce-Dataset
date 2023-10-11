@@ -65,8 +65,8 @@ GEOLOCATION (ZipCode, City, State, Latitude, Longitude)<br/>
       ![Screenshot 2023-10-11 at 3 20 21 PM](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/ab377514-4863-4081-8e39-e79bf98a4d5f)
 
 # Tableau Dashboard
-
-      (https://public.tableau.com/views/Book1_16965683364320/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
+    
+![Dashboard 2](https://github.com/manvith1604/Exploratory-Data-Analysis-on-Olist-E-commerce-Dataset/assets/66794160/b8ccab78-2d1e-4ad8-8088-192ad0bd68e1)
 
 # Summary
 
